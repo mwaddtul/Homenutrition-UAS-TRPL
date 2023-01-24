@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'To-do list application',
+  title: 'HomeNutrition',
   tagline: 'From groceries to goals, we have got you covered.',
   url: 'https://homenutrition-uas-trpl.vercel.app/',
   baseUrl: '/',
