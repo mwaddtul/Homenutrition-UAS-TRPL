@@ -8,7 +8,7 @@ Implementasi dari aplikasi home nutrition adalah proses pengembangan dan penerap
 
 # Testing
 
-Testing aplikasi home nutrition adalah proses evaluasi aplikasi untuk memastikan bahwa fitur-fitur yang diterapkan bekerja dengan baik dan sesuai dengan spesifikasi yang ditentukan. Testing dapat dilakukan melalui beberapa metode, seperti:
+ Aplikasi home nutrition adalah proses evaluasi aplikasi untuk memastikan bahwa fitur-fitur yang diterapkan bekerja dengan baik dan sesuai dengan spesifikasi yang ditentukan. Testing dapat dilakukan melalui beberapa metode, seperti:
 
 - Uji coba manual, yaitu dengan melakukan tes secara manual dengan menggunakan aplikasi dan melaporkan setiap bug atau masalah yang ditemukan.
 - Uji coba otomatis, yaitu dengan menggunakan alat atau perangkat lunak yang dapat menjalankan tes secara otomatis dan melaporkan hasilnya.
@@ -18,7 +18,7 @@ Testing aplikasi home nutrition adalah proses evaluasi aplikasi untuk memastikan
 
 # Deployment
 
-Untuk menyebarluaskan aplikasi home nutrition, Anda dapat menggunakan berbagai cara seperti:
+Untuk menyebarluaskan aplikasi home nutrition, Anda dapat menggunakan cara seperti:
 
 - Membuat iklan di media sosial
 - Membuat video promosi dan mengunggahnya ke platform seperti YouTube
@@ -31,7 +31,7 @@ Untuk menyebarluaskan aplikasi home nutrition, Anda dapat menggunakan berbagai c
 
 # Maintenance
 
-Beberapa hal yang perlu diperhatikan dalam pemeliharaan aplikasi home nutrition adalah:
+Hal yang perlu diperhatikan dalam pemeliharaan aplikasi home nutrition :
 
 - Update reguler: Pastikan untuk mengupdate aplikasi secara reguler untuk memperbaiki bug dan menambah fitur baru.
 - Dukungan pelanggan: Sediakan dukungan pelanggan yang baik untuk menangani masalah yang dihadapi pengguna.
