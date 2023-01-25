@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-![To-dolist](login.jpg)
+![To-dolist](login.png)
 
 Welcome to our to-do list application! This web-based tool is designed to help you manage your daily tasks and stay organized. Whether you need to keep track of groceries to buy, tasks to complete at work, or personal goals to achieve, our application has you covered. With its clean and simple user interface, you can easily add, edit, and delete tasks, and mark them as complete when you're finished. You can also organize your tasks into different categories or lists to help you stay focused and on track. We hope that our to-do list application becomes a valuable tool in your daily life. Thank you for choosing us!
 
