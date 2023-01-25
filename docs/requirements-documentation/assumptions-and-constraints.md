@@ -4,15 +4,17 @@ sidebar_position: 4
 
 # Assumptions and constraints
 
-- The application will be developed and tested on a desktop computer running Windows 10, with a modern web browser (such as Google Chrome or Mozilla Firefox) installed.
-- The application will be deployed to a cloud-based virtual machine running Ubuntu Linux.
-- The virtual machine will have a public IP address and will be accessible via the internet.
-- The virtual machine will have Docker installed and will be used to containerize the application.
-- The application will be deployed to the virtual machine using a continuous integration and delivery (CI/CD) pipeline.
-- The pipeline will consist of a version control system (such as Git), a build server (such as Jenkins), and a deployment tool (such as Ansible).
-- The pipeline will automatically build and deploy the application whenever new code is pushed to the version control repository.
-- The pipeline will automatically run unit tests to ensure that the application is functioning properly.
-- The application will be accessible via a domain name (such as todolist.example.com) that will be registered and pointed to the public IP address of the virtual machine.
-- The application will use a MySQL database to store the tasks and other application data.
-- The database will be hosted on a separate virtual machine or cloud-based service (such as Amazon RDS or Google Cloud SQL).
-- The database will be accessed via a secure connection (such as SSL or TLS).
+Assumptions
+- Pengguna memiliki akses internet yang stabil dan cukup untuk menggunakan aplikasi.
+- Pengguna memiliki perangkat yang kompatibel dengan aplikasi, seperti smartphone, tablet, atau komputer.
+- Pengguna akan mengikuti saran dan rekomendasi dari ahli gizi yang diberikan melalui aplikasi.
+- Pengguna memahami bahwa aplikasi ini adalah alat bantu dalam memperbaiki nutrisi, namun hasil yang didapat bergantung pada kesadaran dan komitmen dari pengguna dalam mengubah pola makan dan gaya hidup yang sehat.
+
+Constrains
+- Kurangnya akses internet yang stabil dan cukup di beberapa wilayah, yang dapat menyulitkan pengguna dalam menggunakan aplikasi.
+- Kurangnya kompatibilitas dengan beberapa perangkat, yang dapat menyulitkan pengguna dalam menggunakan aplikasi.
+- Kurangnya komitmen dari pengguna dalam mengikuti saran dan rekomendasi dari ahli gizi, yang dapat menyulitkan dalam proses monitoring progres.
+- Kurangnya data yang akurat dari pengguna, yang dapat menyulitkan ahli gizi dalam memberikan saran dan rekomendasi yang sesuai.
+- Kurangnya ketersediaan ahli gizi yang berlisensi dan berpengalaman untuk memberikan konsultasi, yang dapat menyulitkan dalam proses konsultasi.
+- Masalah privasi dan keamanan data, yang harus diperhatikan dalam pengembangan aplikasi.
+- Perubahan regulasi yang berlaku pada bidang gizi dan kesehatan yang harus diperhatikan dalam pengembangan aplikasi.
