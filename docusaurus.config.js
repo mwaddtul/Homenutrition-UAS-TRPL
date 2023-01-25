@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'HomeNutrition',
   tagline: 'From groceries to goals, we have got you covered.',
-  url: 'https://homenutrition-uas-trpl.vercel.app/',
+  url: 'https://homenutrition-uas-trpl.vercel.app//',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
