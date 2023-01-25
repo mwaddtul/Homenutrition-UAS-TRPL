@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introduction
 
-The to-do list application is a web-based tool that allows users to create, manage, and track their daily tasks. The application will be designed for use on desktop and mobile devices.
+ Home nutrition adalah layanan yang menyediakan saran dan rekomendasi nutrisi yang dikustomisasi sesuai dengan kebutuhan individu. Layanan ini dapat memberikan dukungan dan solusi untuk masalah nutrisi yang dihadapi oleh individu, termasuk pemenuhan kebutuhan nutrisi, pengaturan diet, dan masalah kesehatan yang terkait dengan nutrisi. Konsultan nutrisi akan bekerja dengan individu untuk menentukan tujuan nutrisi yang sesuai dan menyediakan rekomendasi makanan yang sesuai dengan kebutuhan nutrisi individu dan kondisi kesehatan. Konsultasi ini dapat dilakukan secara online 
 
 # Background
 
