@@ -17,4 +17,4 @@ Mengurangi stres: Aplikasi ini dapat membantu pengguna untuk mengelola stres yan
 
 # Background
 
-There are many to-do list applications available on the market, but many of them are either too complex or lack important features. The goal of this project is to create a simple, yet powerful to-do list application that meets the needs of a wide range of users.
+Aplikasi layanan konsultasi home nutrition atau nutrisi di rumah dikembangkan untuk membantu individu yang memiliki masalah dengan gizi atau ingin meningkatkan kualitas hidup mereka melalui pola makan yang sehat. Aplikasi ini dapat memberikan saran nutrisi yang dikustomisasi berdasarkan profil kesehatan dan kebutuhan individu, serta dapat digunakan untuk melacak asupan nutrisi dan mengatur jadwal makan. Latar belakang dari aplikasi ini adalah tingginya tingkat obesitas dan masalah kesehatan yang terkait dengan pola makan yang tidak sehat, serta kesulitan individu dalam mengatur pola makan mereka sendiri. Aplikasi ini diharapkan dapat membantu individu dalam mencapai tujuan kesehatan mereka melalui perubahan gaya hidup yang berkelanjutan.
