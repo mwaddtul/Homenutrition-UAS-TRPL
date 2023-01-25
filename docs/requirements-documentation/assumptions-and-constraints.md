@@ -10,7 +10,7 @@ Assumptions
 - Pengguna akan mengikuti saran dan rekomendasi dari ahli gizi yang diberikan melalui aplikasi.
 - Pengguna memahami bahwa aplikasi ini adalah alat bantu dalam memperbaiki nutrisi, namun hasil yang didapat bergantung pada kesadaran dan komitmen dari pengguna dalam mengubah pola makan dan gaya hidup yang sehat.
 
-Constrains
+Constraints
 - Kurangnya akses internet yang stabil dan cukup di beberapa wilayah, yang dapat menyulitkan pengguna dalam menggunakan aplikasi.
 - Kurangnya kompatibilitas dengan beberapa perangkat, yang dapat menyulitkan pengguna dalam menggunakan aplikasi.
 - Kurangnya komitmen dari pengguna dalam mengikuti saran dan rekomendasi dari ahli gizi, yang dapat menyulitkan dalam proses monitoring progres.
