@@ -19,7 +19,7 @@ Mentor : Orang terpercaya mengenai hal nutrisi
 
 Screenshots of wireframes
 
-![1](./img/app_todo.webp)
+![1](./img/mockup uas.png)
 some caption.
 
 ## Mockups
