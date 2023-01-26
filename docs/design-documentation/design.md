@@ -30,4 +30,6 @@ Screenshots of mockups
 some caption.
 
 # Demo
-[To-do List App](https://todo.microsoft.com/)
+[To-do List App]
+https://www.figma.com/file/91ZF5WPubvUUFFT0P0ZLZg/02.-User-Flows-Resource-(Nabila)?node-id=66189%3A1547&t=ObgdheQT1bOdrHq4-1
+https://www.figma.com/file/P7VuS4qq4Elt9lA7GUH24J/Untitled?node-id=2%3A3&t=tdFP53C4MnBXBTVX-1
