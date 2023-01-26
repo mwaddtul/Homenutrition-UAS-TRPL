@@ -20,14 +20,14 @@ Mentor : Orang terpercaya mengenai hal nutrisi
 Screenshots of wireframes
 
 ![1](./img/wireframe_uas.png)
-some caption.
+
 
 ## Mockups
 
 Screenshots of mockups
 
 ![2](./img/mockup_uas.png)
-some caption.
+
 
 # Demo
 [To-do List App]
